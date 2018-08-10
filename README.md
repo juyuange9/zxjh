@@ -21,7 +21,7 @@
 <a href="https://github.com/suiy6/ghy/blob/master/README.md"><img src="https://user-images.githubusercontent.com/41253693/43955609-932aeebc-9cd3-11e8-9860-f649524b57f5.png" width="314"  height="114"></a>
 <a href="https://github.com/suiy6/xhy1/blob/master/README.md"><img src="https://user-images.githubusercontent.com/41253693/43956319-4a5bcc26-9cd6-11e8-85be-f614342ad0a9.png" width="314"  height="114"></a>
 
-#### [阅读本站永久文章](https://github.com/issues)
+#### 点击 [阅读本站永久文章](https://github.com/issues)
 
 ##### 一键下载看新闻和电视软件集合
 
