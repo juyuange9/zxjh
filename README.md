@@ -21,7 +21,7 @@
 <a href="https://github.com/suiy6/ghy/blob/master/README.md"><img src="https://user-images.githubusercontent.com/41253693/43955609-932aeebc-9cd3-11e8-9860-f649524b57f5.png" width="314"  height="114"></a>
 <a href="https://github.com/suiy6/xhy1/blob/master/README.md"><img src="https://user-images.githubusercontent.com/41253693/43956319-4a5bcc26-9cd6-11e8-85be-f614342ad0a9.png" width="314"  height="114"></a>
 
-##### 一键下载看新闻软件集合
+##### 一键下载看新闻和电视软件集合
 
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/u1802.zip?raw=true" targe="_blank">无界PC版18.02</a> &nbsp; 
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/um4.5.apk?raw=true" targe="_blank">无界安卓版4.5</a>
