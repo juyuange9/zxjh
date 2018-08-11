@@ -23,9 +23,7 @@
 
 #### [阅读本站永久文章](https://github.com/issues)
 
-#### [点播视频一](https://rutube.ru/video/person/1801275/)
-
-#### [点播视频二](https://rutube.ru/video/person/2909496/)
+#### [点播视频](https://rutube.ru/video/person/2909496/)
 
 ##### 一键下载看新闻和电视软件集合
 
