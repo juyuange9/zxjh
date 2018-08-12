@@ -6,7 +6,7 @@
 
 ### [在纯净的明慧学校夏令营中受益 ](https://github.com/suiy6/zxjh/issues/9)
 ### [法轮大法教会了我做人](https://github.com/suiy6/zxjh/issues/8) 
-### [从北京顺义检察官王鹏磊法庭上蛮横不讲法说开去](https://github.com/suiy6/zxjh/issues/7)
+### [从万念俱灰到幸福常在](https://github.com/suiy6/zxjh/issues/2)
 ### [辽宁抚顺市东洲区12名法轮功学员被非法关押逾二年](https://github.com/suiy6/zxjh/issues/6)
 ### [六七十岁老人读书　太原警察称“大案要案”](https://github.com/suiy6/zxjh/issues/5)
 ### [刘福斌被泰来监狱关押逾八年命危　妻子呼吁关注](https://github.com/suiy6/zxjh/issues/3) 
