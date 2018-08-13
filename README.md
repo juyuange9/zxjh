@@ -21,10 +21,6 @@
 
 ******
 
-### [点播视频](https://rutube.ru/video/person/2909496/)
-
-******
-
 #### 一键下载看新闻和电视的软件集合
 
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/u1802.zip?raw=true" targe="_blank">无界PC版18.02</a> &nbsp; 
