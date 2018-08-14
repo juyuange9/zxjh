@@ -15,7 +15,8 @@
 ### [历史久远布下的千秋大局](https://github.com/suiy6/fhy/blob/master/README.md)
 ### [参加欧洲最大音乐节　法轮功受欢迎](https://github.com/suiy6/w3hy/blob/master/README.md) 
 ### [绝处逢生的幸运者](https://github.com/suiy6/w1hy/blob/master/README.md)
-### [明慧周报：大陆版（第七零五期）](https://github.com/suiy6/w2hy/blob/master/README.md)
+### [明慧周报：大陆版（第七零五期](https://github.com/suiy6/w2hy/blob/master/README.md)
+### [三退与平安第328期](https://github.com/suiy6/xhy3/blob/master/README.md)
 
 ******
 
