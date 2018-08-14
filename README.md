@@ -10,6 +10,7 @@
 ### [广东省梅州市政法委书记彭耀新自缢身亡](https://github.com/suiy6/xhy2/blob/master/README.md) 
 ### [曾遭八年冤狱　八旬老人又被绑架、骚扰](https://github.com/suiy6/xhy4/blob/master/README.md)
 ### [法轮功学员无罪获释　迫害还能继续多久](https://github.com/suiy6/xihy/blob/master/README.md)
+### [控告公安部不作为　上海高级工程师被绑架](https://github.com/suiy6/xohy/blob/master/README.md)
 ### [纪实小小说：看守所里的王](https://github.com/suiy6/ghy/blob/master/README.md)
 ### [古苑寻芳：胸怀坦荡，喜气洋洋](https://github.com/suiy6/thy/blob/master/README.md) 
 ### [历史久远布下的千秋大局](https://github.com/suiy6/fhy/blob/master/README.md)
