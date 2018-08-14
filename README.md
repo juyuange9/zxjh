@@ -6,18 +6,16 @@
 
 ## 文章导航
 
-### [在纯净的明慧学校夏令营中受益 ](https://github.com/suiy6/zxjh/issues/9)
-### [法轮大法教会了我做人](https://github.com/suiy6/zxjh/issues/8) 
-### [从万念俱灰到幸福常在](https://github.com/suiy6/zxjh/issues/2)
-### [辽宁抚顺市东洲区12名法轮功学员被非法关押逾二年](https://github.com/suiy6/zxjh/issues/6)
-### [六七十岁老人读书　太原警察称“大案要案”](https://github.com/suiy6/zxjh/issues/5)
-### [刘福斌被泰来监狱关押逾八年命危　妻子呼吁关注](https://github.com/suiy6/zxjh/issues/3) 
-### [从北京顺义检察官王鹏磊法庭上蛮横不讲法说开去](https://github.com/suiy6/zxjh/issues/7)
+### [纪实小小说：蒿草之下或有灵芝](https://github.com/suiy6/xhy1/blob/master/README.md)
+### [广东省梅州市政法委书记彭耀新自缢身亡](https://github.com/suiy6/xhy2/blob/master/README.md) 
+### [曾遭八年冤狱　八旬老人又被绑架、骚扰](https://github.com/suiy6/xhy4/blob/master/README.md)
+### [法轮功学员无罪获释　迫害还能继续多久](https://github.com/suiy6/xihy/blob/master/README.md)
+### [纪实小小说：看守所里的王](https://github.com/suiy6/ghy/blob/master/README.md)
+### [古苑寻芳：胸怀坦荡，喜气洋洋](https://github.com/suiy6/thy/blob/master/README.md) 
+### [历史久远布下的千秋大局](https://github.com/suiy6/fhy/blob/master/README.md)
 ### [参加欧洲最大音乐节　法轮功受欢迎](https://github.com/suiy6/w3hy/blob/master/README.md) 
 ### [绝处逢生的幸运者](https://github.com/suiy6/w1hy/blob/master/README.md)
 ### [明慧周报：大陆版（第七零五期）](https://github.com/suiy6/w2hy/blob/master/README.md)
-
-## [本站所有文章](https://github.com/issues)
 
 ******
 
