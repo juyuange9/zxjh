@@ -4,7 +4,7 @@
 
 ******
 
-## 文章导航
+## 文章导航（不定时更新）
 
 ### [纪实小小说：蒿草之下或有灵芝](https://github.com/suiy6/xhy1/blob/master/README.md)
 ### [广东省梅州市政法委书记彭耀新自缢身亡](https://github.com/suiy6/xhy2/blob/master/README.md) 
