@@ -14,7 +14,7 @@
 ### [刘福斌被泰来监狱关押逾八年命危　妻子呼吁关注](https://github.com/suiy6/zxjh/issues/3) 
 ### [从北京顺义检察官王鹏磊法庭上蛮横不讲法说开去](https://github.com/suiy6/zxjh/issues/7)
 ### [黑社会老大的转变](https://github.com/suiy6/zxjh/issues/4) 
-### [正义的家属们](https://github.com/suiy6/zxjh/issues/1)
+### [绝处逢生的幸运者](https://github.com/suiy6/w1hy/blob/master/README.md)
 ### [明慧周报：大陆版（第七零五期）](https://github.com/suiy6/w2hy/blob/master/README.md)
 
 ## [本站所有文章](https://github.com/issues)
