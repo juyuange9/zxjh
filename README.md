@@ -6,6 +6,7 @@
 
 ## 文章导航（不定时更新）
 
+### [三退与平安第330期](https://github.com/suiy6/xhy3/blob/master/README.md)
 ### [纪实小小说：蒿草之下或有灵芝](https://github.com/suiy6/xhy1/blob/master/README.md)
 ### [真相传单：沈阳特刊](https://github.com/suiy6/xhy5/blob/master/README.md)
 ### [广东省梅州市政法委书记彭耀新自缢身亡](https://github.com/suiy6/xhy2/blob/master/README.md) 
@@ -18,7 +19,6 @@
 ### [参加欧洲最大音乐节　法轮功受欢迎](https://github.com/suiy6/w3hy/blob/master/README.md) 
 ### [绝处逢生的幸运者](https://github.com/suiy6/w1hy/blob/master/README.md)
 ### [明慧周报：大陆版（第七零五期](https://github.com/suiy6/w2hy/blob/master/README.md)
-### [三退与平安第328期](https://github.com/suiy6/xhy3/blob/master/README.md)
 
 ******
 
