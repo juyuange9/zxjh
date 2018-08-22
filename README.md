@@ -6,7 +6,7 @@
 ### [真相传单：密云特刊](https://github.com/suiy6/w1hy/blob/master/README.md)
 ### [明慧周报：大陆版（第七零六期）](https://github.com/suiy6/w2hy/blob/master/README.md)
 
-#### 推荐链接：[翻墙部落](https://github.com/osurf/osurf/blob/master/README.md)
+### 推荐链接：[翻墙部落](https://github.com/osurf/osurf/blob/master/README.md)
 
-#### 本页永久短网址 https://git.io/fNQ1r 请收藏！
+### 本页永久短网址 https://git.io/fNQ1r 请收藏！
 
