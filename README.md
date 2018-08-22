@@ -8,5 +8,5 @@
 
 ### 友好链接：[翻墙部落](https://github.com/osurf/osurf/blob/master/README.md)
 
-#### 本页永久短网址 https://git.io/fNQ1r 请收藏！
+### 本页永久短网址 https://git.io/fNQ1r 请收藏！
 
